@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Blaze Jayan
 -  📚 Computer Science Engineering student at APJAKTU.
 -  👀 I’m interested in coding.
--  🌱 I’m currently learning artificial intelligence and data science.
+-  🌱 I’m currently learning Javascript.
 
 <!---
 blzjn/blzjn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
